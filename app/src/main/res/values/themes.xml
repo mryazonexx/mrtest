@@ -1,0 +1,11 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MrVaultNote" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/mr_color</item>
+        <item name="colorPrimaryVariant">@color/mr_color</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+
+    <style name="Theme.MrVaultNote" parent="Base.Theme.MrVaultNote" />
+</resources>
